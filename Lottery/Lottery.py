@@ -1,3 +1,7 @@
+"""
+git push/pull testin
+
+"""
 def solution(lottos, win_nums):
     answer = []
     eq_num=0
